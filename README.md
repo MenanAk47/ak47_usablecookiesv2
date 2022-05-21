@@ -1,4 +1,5 @@
 <h1>FIVEM USABLE COOKIES V2| ESX FRAMEWORK</h1>
+<p><strong>Video Showcase:</strong> <a href="https://youtu.be/AcxRj0g0RkQ">YouTube</a></p>
 <p>Required minumum <span style="color: #339966;">$5</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Fully Compatible With</strong> <a href="https://github.com/MenanAk47/ak47_cookiesv2" target="_blank"><strong>ak47_cookiesv2</strong></a></p>
 <p><strong>Not compatible with ox/linden inventory </strong>(all other inventory works except this one)</p>
